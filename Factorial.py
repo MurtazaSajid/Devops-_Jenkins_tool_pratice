@@ -6,4 +6,4 @@ for i in range(1, n + 1):
     factorial *= i
 
 print("Factorial of", n, "is", factorial)
-print"Version 01")
+pr"Version 01")
